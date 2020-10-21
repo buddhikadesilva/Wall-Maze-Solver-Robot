@@ -1,5 +1,7 @@
 # Wall-Maze-Solver-Robot
 
+- Robotics is an interdisciplinary research area at the interface of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design intelligent machines that can help and assist humans in their day-to-day lives and keep everyone safe.
+
 - A maze solving robot is designed to move in a maze and escape through it by following its walls. A maze solving robot is quite similar to a line follower. Like a line follower has to follow black strip lines, a maze follower finds a wall and starts following it until it finds an escape route.
 
 Wall Maze Solving Robot based on left hand rule.
